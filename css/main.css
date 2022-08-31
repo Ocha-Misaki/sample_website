@@ -5,3 +5,16 @@
     margin-left: 10px;
     text-decoration: none;
 }
+.image-link {
+    text-decoration: none;
+}
+header {
+    text-align: center; 
+    margin: 0 0 80px;
+    h1 {
+        text-align: center;
+    }
+    h2 {
+        text-align: center;
+    }
+}
